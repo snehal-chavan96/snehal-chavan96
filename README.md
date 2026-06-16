@@ -1,7 +1,16 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey, I'm Snehal
 
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+  Hey, I'm Snehal
+</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snehal-chavan96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Backend+Enthusiast;AI%2FML+Explorer;Spring+Boot+%7C+React+%7C+AWS+%7C+Docker" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=snehal-chavan96&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ```yaml
