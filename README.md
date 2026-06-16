@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey, I'm Snehal
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=snehal-chavan96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ```yaml
@@ -35,7 +35,6 @@ hobbies    : Coding 💻
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ## 🌐 Frontend
@@ -63,10 +62,10 @@ hobbies    : Coding 💻
 
 ## 🚢 DevOps & Cloud (Learning)
 
+![AWS](https://img.shields.io/badge/AWS-Learning-orange?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions)
-![AWS](https://img.shields.io/badge/AWS-Learning-orange?style=for-the-badge)
 
 ---
 
@@ -93,45 +92,59 @@ A production-style banking platform designed with scalability in mind.
 
 ---
 
-## 🌾 AI-Powered Farmer Support Platform
+## 🌸 SAKHI — AI-Based PCOS Pre-Risk Prediction System
 
-`Node.js` `React.js` `MongoDB` `AI`
+`React.js` `Node.js` `FastAPI` `Python` `Machine Learning`
 
-### Features
+AI-powered healthcare platform that predicts early PCOS risk using ensemble machine learning and explainable AI techniques.
 
-* 🤖 AI Assistant for Farmers
-* 🌦 Weather Insights
-* 🌱 Crop Recommendations
-* 🦠 Disease Detection Support
-* 📈 Agricultural Analytics
+* 🤖 PCOS Pre-Risk Prediction using Stacking Ensemble Models
+* 📊 Data Balancing & Feature Engineering with SMOTEENN
+* 🔍 Explainable AI using SHAP & LIME
+* 👩‍⚕️ Dedicated User & Doctor Dashboards
+* 💡 AI-Generated Personalized Health Recommendations
+* 🎯 Achieved ROC-AUC Score of 0.97
 
----
+## 🩸 BloodBank Management System
 
-## 🤖 AI Marketing Analyzer
+`Spring Boot` `React.js` `MySQL` `JWT` `Spring Security`
 
-`React.js` `Spring Boot` `Machine Learning`
+Enterprise-grade full-stack platform for managing blood donation, inventory, and distribution in real time.
 
-### Features
+* 🧪 Blood component management (Plasma, Platelets, RBC tracking)
+* 📦 Real-time blood inventory & stock monitoring
+* 🚚 Live delivery tracking system
+* 👤 Role-based access (Admin / Donor / Hospital)
+* 🔐 Secure JWT authentication with Spring Security
+* 📋 Donor registration & blood request approval workflow
 
-* 📊 Market Strategy Analysis
-* 🧠 AI-Powered Recommendations
-* 📈 Trend Prediction
-* 💡 Brand Performance Insights
+
+## 🏗️ BuildRight — Architecture Management Platform
+
+`React` `Spring Boot` `AWS` `Terraform`
+
+Cloud-native full-stack platform for managing architectural projects and client interactions.
+
+* 🔐 Secure JWT-based authentication
+* 🏢 Project & Gallery Management
+* ☁️ AWS Infrastructure (EC2, RDS, S3)
+* 🏗️ Terraform-powered provisioning
+* ⚡ Automated CI/CD pipelines
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snehal-chavan96&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehal-chavan96&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehal-chavan96&theme=tokyonight"/>
 </p>
 
 ---
