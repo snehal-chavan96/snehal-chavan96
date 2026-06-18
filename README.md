@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Snehal Chavan
 
-### Full Stack Developer | Java Backend Engineer | DevOps Enthusiast
+### Full Stack Developer | Java Backend Engineer | Cloud & DevOps Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Java+Backend+Engineer;Spring+Boot+Microservices;React+Developer;AWS+%7C+Docker+Enthusiast;Building+Scalable+Applications" />
 
@@ -41,12 +41,46 @@ hobbies    : Coding 💻
 
 ---
 
-<h2 align="center">⚡ Tech Stack</h2>
+# ⚡ Tech Arsenal
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mysql,mongodb,docker,aws,git,github,postman,vscode" />
-</p>
+## 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+## 🌐 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
+
+## ⚙️ Backend
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
+
+## 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+
+## 🔐 Security & Auth
+
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge)
+
+## 🚢 DevOps & Cloud (Learning)
+
+![AWS](https://img.shields.io/badge/AWS-Learning-orange?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions)
+
 ---
+
 # 🚀 Featured Projects
 
 <table>
@@ -154,15 +188,12 @@ hobbies    : Coding 💻
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snehal-chavan96&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=snehal-chavan96&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehal-chavan96&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehal-chavan96&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehal-chavan96&theme=tokyonight"/>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehal-chavan96&theme=tokyonight"/>
 </p>
 
 ---
@@ -188,3 +219,7 @@ hobbies    : Coding 💻
 ---
 
 > "Simplicity is the soul of efficiency."
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d3250,100:424769&height=150&section=footer"/>
+</p>
