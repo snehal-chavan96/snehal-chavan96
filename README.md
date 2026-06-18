@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Backend+Enthusiast;AI%2FML+Explorer;Spring+Boot+%7C+React+%7C+AWS+%7C+Docker" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Backend+Enthusiast;Spring+Boot+%7C+React+%7C+AWS+%7C+Docker" />
 </p>
 
 <p align="center">
@@ -16,20 +16,20 @@
 ```yaml
 > whoami
 
-name       : [Your Name]
+name       : Snehal Chavan
 role       : Full Stack Developer
-             + Java Backend Enthusiast
+             + DevOps Enthusiast
 location   : Pune, Maharashtra 🇮🇳
 education  : B.E./B.Tech Computer Engineering
 
-status     : Open to Internships & Opportunities
-
-interests  : Backend Systems
+interests  : Full Stack Development
+             AWS
+             DevOps
+             Backend Systems
              Microservices
-             AI-Powered Applications
              System Design
 
-currently  : Building Scalable Banking Applications
+currently  : Building Full Stack Applications
 
 hobbies    : Coding 💻
              Reading 📚
@@ -172,12 +172,10 @@ Cloud-native full-stack platform for managing architectural projects and client 
 
 # 📫 Connect With Me
 
-* 💼 LinkedIn : [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/snehal-chavan-96snehal/)
-* 📧 Email    : [your.email@example.com](mailto:snehalbchavan96@gmail.com)
+* 💼 LinkedIn : [https://linkedin.com/in/snehal-chavan-96snehal](https://www.linkedin.com/in/snehal-chavan-96snehal/)
+* 📧 Email    : [snehalbchavan96@gmail.com](mailto:snehalbchavan96@gmail.com)
 * 🌐 Portfolio: Coming Soon
 
 ---
 
-## 💬 Quote
-
-> "First solve the problem, then write the code."
+> "Simplicity is the soul of efficiency."
