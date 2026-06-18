@@ -81,69 +81,109 @@ hobbies    : Coding 💻
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ## 🏦 Core Banking System
 
-`Spring Boot` `React.js` `MySQL` `JWT` `Razorpay`
+**Tech Stack**
 
-A production-style banking platform designed with scalability in mind.
+`Spring Boot` `React.js` `MySQL`
+`JWT` `Razorpay`
 
 ### Features
 
-* 🔐 Role-based Authentication & Authorization
+* 🔐 Role-Based Authentication
 * 👤 Customer & Admin Management
 * 📝 KYC Verification
-* 💳 Account Creation & Management
-* 💸 Secure Fund Transfer
+* 💳 Account Management
+* 💸 Fund Transfer
 * 📊 Digital Passbook
-* 🏦 Fixed Deposit Management
-* 💰 Interest Calculation Engine
-* 💳 Razorpay Payment Integration
+* 🏦 Fixed Deposits
+* 💰 Interest Engine
+* 💳 Razorpay Integration
 * 📜 Audit Logging
 
----
+</td>
 
-## 🌸 SAKHI — AI-Based PCOS Pre-Risk Prediction System
+<td width="50%" valign="top">
 
-`React.js` `Node.js` `FastAPI` `Python` `Machine Learning`
+## 🌸 SAKHI
 
-AI-powered healthcare platform that predicts early PCOS risk using ensemble machine learning and explainable AI techniques.
+### AI-Based PCOS Pre-Risk Prediction
 
-* 🤖 PCOS Pre-Risk Prediction using Stacking Ensemble Models
-* 📊 Data Balancing & Feature Engineering with SMOTEENN
-* 🔍 Explainable AI using SHAP & LIME
-* 👩‍⚕️ Dedicated User & Doctor Dashboards
-* 💡 AI-Generated Personalized Health Recommendations
-* 🎯 Achieved ROC-AUC Score of 0.97
+**Tech Stack**
 
-## 🩸 BloodBank Management System
+`React.js` `FastAPI`
+`Python` `Machine Learning`
 
-`Spring Boot` `React.js` `MySQL` `JWT` `Spring Security`
+### Features
 
-Enterprise-grade full-stack platform for managing blood donation, inventory, and distribution in real time.
+* 🤖 Ensemble ML Models
+* 📊 SMOTEENN Balancing
+* 🔍 SHAP & LIME Explainability
+* 👩‍⚕️ Doctor Dashboard
+* 💡 Health Recommendations
+* 🎯 ROC-AUC 0.97
 
-* 🧪 Blood component management (Plasma, Platelets, RBC tracking)
-* 📦 Real-time blood inventory & stock monitoring
-* 🚚 Live delivery tracking system
-* 👤 Role-based access (Admin / Donor / Hospital)
-* 🔐 Secure JWT authentication with Spring Security
-* 📋 Donor registration & blood request approval workflow
+</td>
 
+</tr>
 
-## 🏗️ BuildRight — Architecture Management Platform
+<tr>
 
-`React` `Spring Boot` `AWS` `Terraform`
+<td width="50%" valign="top">
 
-Cloud-native full-stack platform for managing architectural projects and client interactions.
+## 🩸 Blood Bank Management
 
-* 🔐 Secure JWT-based authentication
-* 🏢 Project & Gallery Management
-* ☁️ AWS Infrastructure (EC2, RDS, S3)
-* 🏗️ Terraform-powered provisioning
-* ⚡ Automated CI/CD pipelines
+**Tech Stack**
 
----
+`Spring Boot`
+`React.js`
+`MySQL`
+`JWT`
+
+### Features
+
+* 🧪 Blood Component Tracking
+* 📦 Inventory Management
+* 🚚 Delivery Tracking
+* 👤 Multi-Role Access
+* 🔐 JWT Authentication
+* 📋 Request Approval Workflow
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏗️ BuildRight
+
+### Architecture Management Platform
+
+**Tech Stack**
+
+`Spring Boot`
+`React`
+`AWS`
+`Terraform`
+
+### Features
+
+* 🔐 JWT Authentication
+* 🏢 Project Management
+* ☁️ AWS Infrastructure
+* 🏗️ Terraform Provisioning
+* ⚡ CI/CD Pipelines
+* 📂 Gallery Management
+
+</td>
+
+</tr>
+</table>
 
 # 📊 GitHub Stats
 
