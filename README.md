@@ -185,18 +185,6 @@ hobbies    : Coding 💻
 </tr>
 </table>
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=snehal-chavan96&show_icons=true&theme=tokyonight"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehal-chavan96&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehal-chavan96&theme=tokyonight"/>
-</p>
-
----
 
 # 🎯 Current Focus
 
