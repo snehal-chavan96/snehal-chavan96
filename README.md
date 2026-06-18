@@ -212,8 +212,8 @@ hobbies    : Coding 💻
 
 # 📫 Connect With Me
 
-* 💼 LinkedIn : [https://linkedin.com/in/snehall](https://www.linkedin.com/in/snehal/)
-* 📧 Email    : [eg](mailto:eg@gmail.com)
+* 💼 LinkedIn : [https://linkedin.com/in/snehal-chavan-96snehal](https://www.linkedin.com/in/snehal-chavan-96snehal/)
+* 📧 Email    : [snehalbchavan96@gmail.com](mailto:snehalbchavan96@gmail.com)
 * 🌐 Portfolio: Coming Soon
 
 ---
