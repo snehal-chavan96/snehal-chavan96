@@ -1,98 +1,140 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey, I'm Snehal
+# <div align="center">
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-  Hey, I'm Snehal
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1a1b27,50:2d3250,100:424769&text=Snehal%20Chavan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Java%20Backend%20Engineer&descAlignY=60"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Backend+Enthusiast;Spring+Boot+%7C+React+%7C+AWS+%7C+Docker" />
-</p>
+# Hi 👋, I'm Snehal Chavan
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snehal-chavan96&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+### Full Stack Developer | Java Backend Engineer | Spring Boot Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Java+Backend+Engineer;Spring+Boot+Microservices;React+Developer;AWS+%7C+Docker+Enthusiast;Building+Scalable+Applications" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=snehal-chavan96&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/snehal-chavan96?label=Followers&style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/stars/snehal-chavan96?affiliations=OWNER&style=for-the-badge&color=yellow" />
+
+</div>
+
+---
+
+# 🚀 About Me
 
 ```yaml
-> whoami
+name: Snehal Chavan
 
-name       : Snehal Chavan
-role       : Full Stack Developer
-             + DevOps Enthusiast
-location   : Pune, Maharashtra 🇮🇳
-education  : B.E./B.Tech Computer Engineering
+role:
+  - Full Stack Developer
+  - Java Backend Developer
 
-interests  : Full Stack Development
-             AWS
-             DevOps
-             Backend Systems
-             Microservices
-             System Design
+education:
+  - B.E. Computer Engineering
 
-currently  : Building Full Stack Applications
+location:
+  - Pune, Maharashtra, India 🇮🇳
 
-hobbies    : Coding 💻
-             Reading 📚
-             Exploring Tech 🚀
+specialization:
+  - Java
+  - Spring Boot
+  - REST APIs
+  - React.js
+  - System Design
+
+currently_learning:
+  - Microservices
+  - Docker
+  - AWS
+  - CI/CD
+
+interests:
+  - Backend Engineering
+  - Cloud Computing
+  - Scalable Systems
+  - Open Source
+
+goal:
+  - Become a Software Engineer building impactful products
 ```
 
 ---
 
-# ⚡ Tech Arsenal
+# 🌐 Connect With Me
 
-## 💻 Languages
+<p align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+<a href="https://linkedin.com/in/snehal">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 🌐 Frontend
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
+<a href="https://github.com/snehal-chavan96">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## ⚙️ Backend
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
-
-## 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-
-## 🔐 Security & Auth
-
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge)
-
-## 🚢 DevOps & Cloud (Learning)
-
-![AWS](https://img.shields.io/badge/AWS-Learning-orange?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions)
+</p>
 
 ---
 
-# 🚀 Projects
+# ⚡ Tech Stack
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,cpp,mysql"/>
+</p>
+
+## 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
+</p>
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+</p>
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions"/>
+</p>
+
+## 🔐 Security
+
+<p>
+<img src="https://skillicons.dev/icons?i=postman"/>
+</p>
+
+JWT • Spring Security • Role-Based Authentication
+
+---
+
+# 🚀 Featured Projects
 
 ## 🏦 Core Banking System
 
-`Spring Boot` `React.js` `MySQL` `JWT` `Razorpay`
+**Tech Stack:** Spring Boot • React.js • MySQL • JWT • Razorpay
 
-A production-style banking platform designed with scalability in mind.
+Enterprise-grade banking platform designed with scalability and security in mind.
 
-### Features
+### Key Features
 
-* 🔐 Role-based Authentication & Authorization
+* 🔐 Role-Based Authentication & Authorization
 * 👤 Customer & Admin Management
-* 📝 KYC Verification
+* 📄 KYC Verification
 * 💳 Account Creation & Management
-* 💸 Secure Fund Transfer
+* 💸 Secure Fund Transfers
 * 📊 Digital Passbook
 * 🏦 Fixed Deposit Management
 * 💰 Interest Calculation Engine
@@ -103,57 +145,77 @@ A production-style banking platform designed with scalability in mind.
 
 ## 🌸 SAKHI — AI-Based PCOS Pre-Risk Prediction System
 
-`React.js` `Node.js` `FastAPI` `Python` `Machine Learning`
+**Tech Stack:** React.js • FastAPI • Python • Machine Learning
 
-AI-powered healthcare platform that predicts early PCOS risk using ensemble machine learning and explainable AI techniques.
+AI-powered healthcare platform for early PCOS risk prediction.
 
-* 🤖 PCOS Pre-Risk Prediction using Stacking Ensemble Models
-* 📊 Data Balancing & Feature Engineering with SMOTEENN
-* 🔍 Explainable AI using SHAP & LIME
-* 👩‍⚕️ Dedicated User & Doctor Dashboards
-* 💡 AI-Generated Personalized Health Recommendations
-* 🎯 Achieved ROC-AUC Score of 0.97
+### Key Features
 
-## 🩸 BloodBank Management System
-
-`Spring Boot` `React.js` `MySQL` `JWT` `Spring Security`
-
-Enterprise-grade full-stack platform for managing blood donation, inventory, and distribution in real time.
-
-* 🧪 Blood component management (Plasma, Platelets, RBC tracking)
-* 📦 Real-time blood inventory & stock monitoring
-* 🚚 Live delivery tracking system
-* 👤 Role-based access (Admin / Donor / Hospital)
-* 🔐 Secure JWT authentication with Spring Security
-* 📋 Donor registration & blood request approval workflow
-
-
-## 🏗️ BuildRight — Architecture Management Platform
-
-`React` `Spring Boot` `AWS` `Terraform`
-
-Cloud-native full-stack platform for managing architectural projects and client interactions.
-
-* 🔐 Secure JWT-based authentication
-* 🏢 Project & Gallery Management
-* ☁️ AWS Infrastructure (EC2, RDS, S3)
-* 🏗️ Terraform-powered provisioning
-* ⚡ Automated CI/CD pipelines
+* 🤖 Ensemble ML Models
+* 📈 ROC-AUC Score: 0.97
+* 🔍 Explainable AI (SHAP & LIME)
+* 👩‍⚕️ User & Doctor Dashboards
+* 💡 Personalized Health Recommendations
 
 ---
 
-# 📊 GitHub Stats
+## 🩸 Blood Bank Management System
+
+**Tech Stack:** Spring Boot • React.js • MySQL • JWT
+
+Real-time blood donation and inventory management platform.
+
+### Key Features
+
+* 🧪 Blood Component Tracking
+* 📦 Inventory Management
+* 🚚 Delivery Tracking
+* 👥 Multi-Role Access
+* 🔐 JWT Authentication
+
+---
+
+## 🏗️ BuildRight — Architecture Management Platform
+
+**Tech Stack:** Spring Boot • React • AWS • Terraform
+
+Cloud-native platform for architecture project management.
+
+### Key Features
+
+* 🔐 Secure Authentication
+* ☁️ AWS Infrastructure
+* 🏗️ Terraform Provisioning
+* 🚀 Automated CI/CD
+* 📂 Project & Gallery Management
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snehal-chavan96&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=snehal-chavan96&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehal-chavan96&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehal-chavan96&layout=compact&theme=tokyonight"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehal-chavan96&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
+# 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehal-chavan96&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=snehal-chavan96&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehal-chavan96&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -161,21 +223,55 @@ Cloud-native full-stack platform for managing architectural projects and client 
 # 🎯 Current Focus
 
 ```yaml
-🔭 Building     : Core Banking System
-🌱 Learning     : Microservices, Docker, AWS
-👯 Open to      : Internships & Collaborations
-⚡ Exploring    : System Design & Cloud Architecture
-📚 Goal         : Become a Backend / Full Stack Engineer
+🔭 Building:
+  - Core Banking System
+
+🌱 Learning:
+  - Microservices
+  - Docker
+  - AWS
+  - System Design
+
+👯 Open To:
+  - Internships
+  - Freelance Projects
+  - Open Source Contributions
+
+⚡ Exploring:
+  - Cloud Architecture
+  - Distributed Systems
 ```
 
 ---
 
-# 📫 Connect With Me
+# 🐍 Contribution Snake
 
-* 💼 LinkedIn : [https://linkedin.com/in/snehal-chavan-96snehal](https://www.linkedin.com/in/snehal-chavan-96snehal/)
-* 📧 Email    : [snehalbchavan96@gmail.com](mailto:snehalbchavan96@gmail.com)
-* 🌐 Portfolio: Coming Soon
+> Enable GitHub Action to generate this SVG automatically.
+
+```markdown
+<p align="center">
+<img src="https://raw.githubusercontent.com/snehal-chavan96/snehal-chavan96/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+```
 
 ---
 
-> "Simplicity is the soul of efficiency."
+# 💡 Developer Philosophy
+
+<div align="center">
+
+### "First, solve the problem. Then, write the code."
+
+Building scalable applications while continuously learning and improving every day.
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider following me!
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1a1b27,50:2d3250,100:424769"/>
